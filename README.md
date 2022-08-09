@@ -2,7 +2,7 @@
 
 ## Setting state
 Standard and modal bottom sheets have the following states:
-* #### STATE_COLLAPSED: The bottom sheet is visible but only showing its peek height. This state is usually the 'resting position' of a bottom sheet, and should have enough height to indicate there is extra content for the user to interact with.
+* #### STATE_COLLAPSED---: The bottom sheet is visible but only showing its peek height. This state is usually the 'resting position' of a bottom sheet, and should have enough height to indicate there is extra content for the user to interact with.
 * #### STATE_EXPANDED: The bottom sheet is visible at its maximum height and it is neither dragging or settling
 * #### STATE_HALF_EXPANDED: The bottom sheet is half-expanded (only applicable if behavior_fitToContents has been set to false), and is neither dragging or settling
 * #### STATE_HIDDEN: The bottom sheet is no longer visible and can only be re-shown programmatically.
