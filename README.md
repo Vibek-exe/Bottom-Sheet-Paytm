@@ -1,6 +1,6 @@
-### Bottom-Sheet-Paytm
+# Bottom-Sheet-Paytm
 
-# Setting state
+### Setting state
 
 
 
