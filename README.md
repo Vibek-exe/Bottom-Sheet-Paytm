@@ -1,8 +1,10 @@
 # Bottom-Sheet-Paytm
 
-### Setting state
+## Setting state
+Standard and modal bottom sheets have the following states:
+* # STATE_COLLAPSED #: The bottom sheet is visible but only showing its peek height. This state is usually the 'resting position' of a bottom sheet, and should have enough height to indicate there is extra content for the user to interact with.
 
-Markup : ```javascript
+
          ```
 
 
